@@ -1,0 +1,19 @@
+.footer>h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: lighter;
+    margin: 0px;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 80);
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    bottom: 20px;
+    position: fixed;
+
+}

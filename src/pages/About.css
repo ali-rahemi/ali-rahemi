@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+.about-me-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 0px 50px;
+    height: 100vh;
+  }
+  
+  .about-me-section h2 {
+    display: flex;
+    width: 100%;
+  
+    font-size: 30px;
+  
+  }
+  
+  .about-me-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  
+  .about-me-image img:hover{
+    transform: scale(1.05);
+  }
+  
+  .about-me-image img {
+
+    width: 75%;
+    height: auto;
+    transition: all 0.5s ease;
+    transform: scale(1);
+  
+  
+  }
+  
+  .abaut-text{
+    line-height: 1.5;
+    font-weight: lighter;
+    font-size: 18px;
+  
+  }
+
+
+.about-me-content{
+
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+  
+  
+  
+  
